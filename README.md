@@ -1,6 +1,6 @@
 # Muzamil Saeed — Frontend Portfolio
 
-**📧 Email:** [Your Email Here]  
+**📧 Email:** muzamilsaeed0005@gmail.com 
 **🌍 Location:** Pakistan  
 **🔗 GitHub:** https://github.com/YourGitHubUsername  
 **🌐 Portfolio live (Spotter Navbar redesign):** https://spotter-navbar-alpha.vercel.app
