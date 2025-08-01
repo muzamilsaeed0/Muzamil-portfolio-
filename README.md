@@ -2,7 +2,7 @@
 
 **📧 Email:** muzamilsaeed0005@gmail.com 
 **🌍 Location:** Pakistan  
-**🔗 GitHub:** https://github.com/YourGitHubUsername  
+**🔗 GitHub:** https://github.com/muzamilsaeed0/Muzamil-portfolio- 
 **🌐 Portfolio live (Spotter Navbar redesign):** https://spotter-navbar-alpha.vercel.app
 
 ---
